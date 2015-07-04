@@ -518,9 +518,9 @@ h1 {
       margin: 0;
       height: 40px;
       vertical-align: top;
-      line-height: 14px;
-      font-size: em(14px);
-      padding: 4px 10px;
+      line-height: 40px;
+      font-size: em(18px);
+      padding: 0px 10px;
       
       background: #069854;  
 
@@ -530,7 +530,6 @@ h1 {
       @include media($mobile) {
       	width: auto;
       	border-radius: 4px;  
-      	font-size: em(18px);
       	margin-top: 5px;
       	br {
         	display: none !important;

@@ -582,9 +582,9 @@ h1 {
       margin: 0;
       height: 40px;
       vertical-align: top;
-      line-height: 14px;
-      font-size: 0.875em;
-      padding: 4px 10px;
+      line-height: 40px;
+      font-size: 1.125em;
+      padding: 0px 10px;
       background: #069854;
       border-bottom-left-radius: 0;
       border-top-left-radius: 0;
@@ -594,7 +594,6 @@ h1 {
         #more form button {
           width: auto;
           border-radius: 4px;
-          font-size: 1.125em;
           margin-top: 5px; }
           #more form button br {
             display: none !important; } }
